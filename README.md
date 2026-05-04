@@ -68,6 +68,7 @@ Bachelor of Science in Computer Science
 ---
 
 EXPERIENCE
+
 Competitive Programming Enthusiast
 
 * Solved numerous algorithmic problems on online judges
@@ -76,10 +77,12 @@ Competitive Programming Enthusiast
 ---
 
 CONTACT
+
 Email: anmaymondal@gmail.com
 
 
 ---
 
 NOTES
+
 This portfolio is hosted using GitHub Pages.
