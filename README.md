@@ -32,7 +32,7 @@ Simple desktop task manager<br>
 
 ### 🛒 E-commerce Website
 
-Responsive product-based website
+Responsive product-based website   
 **Tech:** HTML, CSS, JavaScript
 
 ### 🌍 Travel Website
