@@ -42,7 +42,7 @@ Modern responsive travel UI<br>
 
 ### 📒 Notebook App
 
-Mobile note-taking app<br>   
+Mobile note-taking app<br>
 **Tech:** Flutter
 
 ### 🥗 Nutrition Tracking App
