@@ -60,6 +60,7 @@ PROJECTS
 ---
 
 EDUCATION
+
 Leading University, Sylhet
 Bachelor of Science in Computer Science
 2022 – Present (4th Year)
