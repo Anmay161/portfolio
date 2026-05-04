@@ -1,90 +1,85 @@
-PERSONAL PORTFOLIO
+# 👨‍💻 Anmay Mondal
 
-Name: Anmay Mondal
-
-Title: Software Developer (Student)
+**Software Developer (Student)**
 
 ---
 
-ABOUT ME
+## 🧑‍💼 About Me
 
-I am a 4th-year student at a leading university with a strong interest in software development and problem-solving. I enjoy building practical applications across web, mobile, and basic machine learning. I also have experience in competitive programming, which has strengthened my analytical thinking and coding efficiency.
+I am a 4th-year student at Leading University, Sylhet with a strong interest in software development and problem-solving. I enjoy building practical applications across web, mobile, and machine learning.
 
 ---
 
-SKILLS
+## 🛠️ Skills
 
 * HTML5, CSS3, JavaScript
 * Flutter (Dart)
 * Java
 * Python
 * C, C++
-* Basic Machine Learning
+* Machine Learning (Basic)
 * Data Structures & Algorithms
 * Competitive Programming
 
 ---
 
-PROJECTS
+## 📂 Projects
 
-1. Java To-Do Application
+### 📝 Java To-Do Application
 
-   A simple desktop-based task manager application.
-   Technologies: Java
+Simple desktop task manager
+**Tech:** Java
 
-2. E-commerce Website
+### 🛒 E-commerce Website
 
-    A responsive e-commerce website with product listings and UI interactions.
-   Technologies: HTML, CSS, JavaScript
+Responsive product-based website
+**Tech:** HTML, CSS, JavaScript
 
-3. Travel Website
+### 🌍 Travel Website
 
-   A visually appealing travel website with responsive design.
-   Technologies: HTML, CSS, JavaScript
+Modern responsive travel UI
+**Tech:** HTML, CSS, JavaScript
 
-4. Notebook App
+### 📒 Notebook App
 
-   A mobile application for taking and managing notes.
-   Technologies: Flutter
+Mobile note-taking app
+**Tech:** Flutter
 
-5. Nutrition Tracking App
+### 🥗 Nutrition Tracking App
 
-   A mobile app to track daily nutrition and food intake.
-   Technologies: Flutter
+Tracks daily food and nutrition
+**Tech:** Flutter
 
-6. Customer Review Sentiment Analysis
-   
-   A machine learning project to classify customer reviews as constructive or not.
-   Technologies: Python, Machine Learning
+### 🤖 Sentiment Analysis
 
----
-
-EDUCATION
-
-Leading University, Sylhet
-
-Bachelor of Science in Computer Science
-
-2022 – Present (4th Year)
+Classifies reviews as constructive or not
+**Tech:** Python, ML
 
 ---
 
-EXPERIENCE
+## 🎓 Education
 
-Competitive Programming Enthusiast
-
-* Solved numerous algorithmic problems on online judges
-* Strong understanding of data structures and problem-solving techniques
-
----
-
-CONTACT
-
-Email: anmaymondal@gmail.com
-
+**Leading University, Sylhet**
+BSc in Computer Science
+2022 – Present
 
 ---
 
-NOTES
+## 🧠 Experience
 
-This portfolio is hosted using GitHub Pages.
+**Competitive Programming**
+
+* Solved many algorithmic problems
+* Strong problem-solving skills
+
+---
+
+## 📬 Contact
+
+📧 [anmaymondal@gmail.com](mailto:anmaymondal@gmail.com)
+
+---
+
+## 🌐 Deployment
+
+Hosted using GitHub Pages
