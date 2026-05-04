@@ -27,40 +27,40 @@ I am a 4th-year student at Leading University, Sylhet with a strong interest in 
 
 ### 📝 Java To-Do Application
 
-Simple desktop task manager  
+Simple desktop task manager<br>
 **Tech:** Java
 
 ### 🛒 E-commerce Website
 
-Responsive product-based website  
+Responsive product-based website<br>  
 **Tech:** HTML, CSS, JavaScript
 
 ### 🌍 Travel Website
 
-Modern responsive travel UI  
+Modern responsive travel UI<br>  
 **Tech:** HTML, CSS, JavaScript
 
 ### 📒 Notebook App
 
-Mobile note-taking app  
+Mobile note-taking app<br>  
 **Tech:** Flutter
 
 ### 🥗 Nutrition Tracking App
 
-Tracks daily food and nutrition  
+Tracks daily food and nutrition<br>  
 **Tech:** Flutter
 
 ### 🤖 Sentiment Analysis
 
-Classifies reviews as constructive or not  
+Classifies reviews as constructive or not<br>  
 **Tech:** Python, ML
 
 ---
 
 ## 🎓 Education
 
-**Leading University, Sylhet**  
-BSc in Computer Science  
+**Leading University, Sylhet**<br>  
+BSc in Computer Science<br>  
 2022 – Present
 
 ---
