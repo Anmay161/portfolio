@@ -32,35 +32,35 @@ Simple desktop task manager<br>
 
 ### 🛒 E-commerce Website
 
-Responsive product-based website<br>  
+Responsive product-based website
 **Tech:** HTML, CSS, JavaScript
 
 ### 🌍 Travel Website
 
-Modern responsive travel UI<br>  
+Modern responsive travel UI
 **Tech:** HTML, CSS, JavaScript
 
 ### 📒 Notebook App
 
-Mobile note-taking app<br>  
+Mobile note-taking app
 **Tech:** Flutter
 
 ### 🥗 Nutrition Tracking App
 
-Tracks daily food and nutrition<br>  
+Tracks daily food and nutrition
 **Tech:** Flutter
 
 ### 🤖 Sentiment Analysis
 
-Classifies reviews as constructive or not<br>  
+Classifies reviews as constructive or not
 **Tech:** Python, ML
 
 ---
 
 ## 🎓 Education
 
-**Leading University, Sylhet**<br>  
-BSc in Computer Science<br>  
+**Leading University, Sylhet** 
+BSc in Computer Science
 2022 – Present
 
 ---
