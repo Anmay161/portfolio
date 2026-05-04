@@ -47,20 +47,20 @@ Mobile note-taking app<br>
 
 ### 🥗 Nutrition Tracking App
 
-Tracks daily food and nutrition<br>   
+Tracks daily food and nutrition<br>
 **Tech:** Flutter
 
 ### 🤖 Sentiment Analysis
 
-Classifies reviews as constructive or not<br>   
+Classifies reviews as constructive or not<br>
 **Tech:** Python, ML
 
 ---
 
 ## 🎓 Education
 
-**Leading University, Sylhet**<br>    
-BSc in Computer Science<br>   
+**Leading University, Sylhet**<br>
+BSc in Computer Science<br>
 2022 – Present
 
 ---
