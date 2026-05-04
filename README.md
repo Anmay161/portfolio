@@ -37,30 +37,30 @@ Responsive product-based website<br>
 
 ### 🌍 Travel Website
 
-Modern responsive travel UI   
+Modern responsive travel UI<br>
 **Tech:** HTML, CSS, JavaScript
 
 ### 📒 Notebook App
 
-Mobile note-taking app   
+Mobile note-taking app<br>   
 **Tech:** Flutter
 
 ### 🥗 Nutrition Tracking App
 
-Tracks daily food and nutrition   
+Tracks daily food and nutrition<br>   
 **Tech:** Flutter
 
 ### 🤖 Sentiment Analysis
 
-Classifies reviews as constructive or not   
+Classifies reviews as constructive or not<br>   
 **Tech:** Python, ML
 
 ---
 
 ## 🎓 Education
 
-**Leading University, Sylhet**    
-BSc in Computer Science   
+**Leading University, Sylhet**<br>    
+BSc in Computer Science<br>   
 2022 – Present
 
 ---
