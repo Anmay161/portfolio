@@ -13,6 +13,7 @@ I am a graduate of Leading University, Sylhet, with a strong interest in AI, mac
 ## 🛠️ Skills
 
 * HTML5, CSS3, JavaScript
+* SQL, PHP
 * Flutter (Dart)
 * Java
 * Python
@@ -27,33 +28,35 @@ I am a graduate of Leading University, Sylhet, with a strong interest in AI, mac
 
 ### 📝 Java To-Do Application
 
-Simple desktop task manager<br>
+Simple task manager<br>
 **Tech:** Java
 
 ### 🛒 E-commerce Website
 
-Responsive product-based website<br>
+Product-based website<br>
 **Tech:** HTML, CSS, JavaScript
 
 ### 🌍 Travel Website
 
-Modern responsive travel UI<br>
+Modern travel UI<br>
 **Tech:** HTML, CSS, JavaScript
 
 ### 📒 Notebook App
 
 Mobile note-taking app<br>
-**Tech:** Flutter
+**Tech:** Flutter, Firebase
 
 ### 🥗 Nutrition Tracking App
 
-Tracks daily food and nutrition<br>
-**Tech:** Flutter
+Developed a cross-platform mobile application to help users monitor daily food intake, track nutritional values, and maintain healthy eating habits through an intuitive user interface.
+
+**Tech:** Flutter, Dart, Firebase
 
 ### 🤖 Sentiment Analysis
 
-Classifies reviews as constructive or not<br>
-**Tech:** Python, ML
+Built a machine learning model to classify textual reviews into constructive and non-constructive categories. Performed data preprocessing, feature engineering, model training, and evaluation to improve classification performance.
+
+**Tech:** Python, Scikit-learn, Pandas, NumPy, Machine Learning
 
 ### 🌊 River Migration Prediction Using Satellite Imagery *(Undergraduate Thesis)*
 
