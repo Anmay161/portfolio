@@ -1,12 +1,12 @@
 # 👨‍💻 Anmay Mondal
 
-**Software Developer (Student)**
+**Software Developer**
 
 ---
 
 ## 🧑‍💼 About Me
 
-I am a 4th-year student at Leading University, Sylhet with a strong interest in software development and problem-solving. I enjoy building practical applications across web, mobile, and machine learning.
+I am a graduate of Leading University, Sylhet, with a strong interest in AI, machine learning, and software engineering. I enjoy designing and building practical, scalable applications across machine learning, web, and mobile platforms while applying strong problem-solving and software development principles. I am passionate about learning new technologies, developing intelligent solutions, and contributing to impactful, real-world projects.
 
 ---
 
@@ -55,13 +55,19 @@ Tracks daily food and nutrition<br>
 Classifies reviews as constructive or not<br>
 **Tech:** Python, ML
 
+### 🌊 River Migration Prediction Using Satellite Imagery *(Undergraduate Thesis)*
+
+Developed a machine learning-based framework to analyze and predict river migration patterns using multi-temporal satellite imagery and geospatial data. Applied GIS techniques for data preprocessing, feature extraction, and spatial analysis to support river morphology monitoring and environmental assessment.
+
+**Tech:** Python, Machine Learning, GIS, Remote Sensing, Satellite Imagery
+
 ---
 
 ## 🎓 Education
 
 **Leading University, Sylhet**<br>
 BSc in Computer Science<br>
-2022 – Present
+2022 – 2026
 
 ---
 
